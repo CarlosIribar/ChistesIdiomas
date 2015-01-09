@@ -3,7 +3,7 @@ package com.iribar.carlos.myapplication;
 import java.util.Random;
 
 /**
- * Created by Carlos on 07/01/2015.
+ * Created by Carlos Iribar on 07/01/2015.
  */
 public class ListaChistes {
 
