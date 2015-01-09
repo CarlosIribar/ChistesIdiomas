@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChistesIdiomas</string>
+    <string name="title_activity_chiste">Chiste</string>
+    <string name="titulo">¿Cómo se dice:</string>
+    <string name="idioma"> en Chino?</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
